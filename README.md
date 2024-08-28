@@ -8,4 +8,13 @@ pyaudio(record audio from mic)
 setuptools
 groq/openai(ai)
 pyttsx3(microsoft text to speech)/gTTs(google text to speech)
-pygame(plays mp3 files)
+
+LIBRARIES USED
+• speech_recognition
+• webbrowser
+• pyttsx3
+• musicLibrary
+• requests
+• openai/groqai
+
+ADD YOUR API KEYS FOR THE CODE TO WORK
